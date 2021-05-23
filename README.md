@@ -1,2 +1,2 @@
 # Text-Search
-A simple text file searching program
+A tiny program made for searching text files Notepad++ doesn't want to
